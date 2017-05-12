@@ -9,7 +9,7 @@ The operations that can be performed are very minimal.
 
 # How does this Calculator work? (Brief explanation)
 
-<To be Written>
+To be Written...
 
 
 # Flaws in the App
@@ -21,4 +21,5 @@ Operations are limited to Addition,Subtraction,Division and Multiplication.
 # Conclusion
 
 App made by - Raghav Vashisht
+
 learnt from Course - Devsloples Course for iOS 10 
